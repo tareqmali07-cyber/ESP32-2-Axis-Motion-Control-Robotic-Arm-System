@@ -60,7 +60,7 @@ An embedded dual-actuator motion control system built on the **ESP32 Dev Module*
 
 | 2D Schematic Diagram | 2D Circuit View | Real Hardware Setup |
 | :---: | :---: | :---: |
-| ![Circuit Schematic](schematics/circuit_diagram.png) | ![Circuit Image](schematics/circuit_image.png) | ![Real Setup](schematics/circuit_real.jpeg) |
+| ![Circuit Schematic](schematics/circuit_diagram.png) | ![Circuit Image](schematics/circuit_image.png) | ![Real Setup](schematics/circuit_real.jpg) |
 
 * 📄 Download Bill of Materials: [components.csv](schematics/components.csv)
 
